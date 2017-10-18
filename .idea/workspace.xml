@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ebcf245e-9acc-4165-8c05-6b0659f6c154" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/edu/Greedy_PriyankaToys.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/edu/Greedy_MarkToys.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -21,11 +20,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Greedy_PriyankaToys.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/edu/Greedy_PriyankaToys.java">
+      <file leaf-file-name="Greedy_MarkToys.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/edu/Greedy_MarkToys.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="121">
-              <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+            <state relative-caret-position="270">
+              <caret line="18" column="37" lean-forward="false" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -65,6 +64,7 @@
         <option value="$PROJECT_DIR$/src/edu/Greedy.java" />
         <option value="$PROJECT_DIR$/src/edu/Greedy_beautifullPair.java" />
         <option value="$PROJECT_DIR$/src/edu/Greedy_PriyankaToys.java" />
+        <option value="$PROJECT_DIR$/src/edu/Greedy_MarkToys.java" />
       </list>
     </option>
   </component>
@@ -267,6 +267,14 @@
       <option name="presentableId" value="Default" />
       <updated>1507870755100</updated>
     </task>
+    <task id="LOCAL-00001" summary="#A_Greedy_Diwali_Night&#10;#SleepyHead&#10;#HappyDiwali">
+      <created>1508356089636</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1508356089636</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -303,6 +311,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="#A_Greedy_Diwali_Night&#10;#SleepyHead&#10;#HappyDiwali" />
+    <option name="LAST_COMMIT_MESSAGE" value="#A_Greedy_Diwali_Night&#10;#SleepyHead&#10;#HappyDiwali" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -561,6 +573,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="121">
           <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/Greedy_MarkToys.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="37" lean-forward="false" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
