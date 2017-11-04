@@ -18,7 +18,7 @@ public class Greedy_MarkToys {
         int sum=0;int count=0;
         for(int i=0;i<n && sum+arr[i]<=k;i++){
             sum+=arr[i];
-            count++:
+            count++;
         }
 
     }
