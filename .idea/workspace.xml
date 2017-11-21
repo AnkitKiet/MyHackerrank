@@ -1,11 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ebcf245e-9acc-4165-8c05-6b0659f6c154" name="Default" comment="">
+    <list default="true" id="ebcf245e-9acc-4165-8c05-6b0659f6c154" name="Default" comment="#3DSurfaceArea&#10;#medium&#10;#weekofcode35">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/itext5-itext-pdfa-5.5.12-javadoc.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/itext5-itext-pdfa-5.5.12-sources.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/itext5-itext-pdfa-5.5.12.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/itext5-itext-xtra-5.5.12-javadoc.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/itext5-itext-xtra-5.5.12-sources.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/itext5-itext-xtra-5.5.12.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/itext5-itextpdf-5.5.12-javadoc.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/itext5-itextpdf-5.5.12-sources.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/itext5-itextpdf-5.5.12.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/itext5-xmlworker-5.5.12-javadoc.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/itext5-xmlworker-5.5.12-sources.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/itext5-xmlworker-5.5.12.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/itext5_itext_pdfa_5_5_12.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/itext5_xmlworker_5_5_12.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/edu/Pdfmaker.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/edu/Planner.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/edu/Weekofcode35SurfaceArea.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/edu/stackOverflow.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Compete.iml" afterPath="$PROJECT_DIR$/Compete.iml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,15 +36,24 @@
     </SUITE>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Weekofcode35SurfaceArea.java" pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Weekofcode35SurfaceArea.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/edu/Weekofcode35SurfaceArea.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+            <state relative-caret-position="609">
+              <caret line="44" column="1" lean-forward="false" selection-start-line="44" selection-start-column="1" selection-end-line="44" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Pdfmaker.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/edu/Pdfmaker.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3690">
+              <caret line="246" column="0" lean-forward="true" selection-start-line="246" selection-start-column="0" selection-end-line="246" selection-end-column="0" />
               <folding>
-                <element signature="e#1146#1147#0" expanded="true" />
-                <element signature="e#1206#1207#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -80,6 +104,7 @@
         <option value="$PROJECT_DIR$/src/edu/SurfaceArea.java" />
         <option value="$PROJECT_DIR$/src/edu/BFSShortestReach.java" />
         <option value="$PROJECT_DIR$/src/edu/Weekofcode35SurfaceArea.java" />
+        <option value="$PROJECT_DIR$/src/edu/Pdfmaker.java" />
       </list>
     </option>
   </component>
@@ -89,7 +114,7 @@
     <option name="height" value="821" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
+    <navigator currentView="Scope" currentSubView="Project Files" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -103,10 +128,31 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="Scratches" />
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
-      <pane id="Scope" />
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="Compete" type="cbb8eebc:String" user="Compete" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="Compete" type="cbb8eebc:String" user="Compete" />
+              <item name="src" type="cbb8eebc:String" user="src" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="Compete" type="cbb8eebc:String" user="Compete" />
+              <item name="src" type="cbb8eebc:String" user="src" />
+              <item name="edu" type="cbb8eebc:String" user="edu" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -117,6 +163,17 @@
             <path>
               <item name="Compete" type="b2602c69:ProjectViewProjectNode" />
               <item name="Compete" type="462c0819:PsiDirectoryNode" />
+              <item name="libs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Compete" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Compete" type="462c0819:PsiDirectoryNode" />
+              <item name="libs" type="462c0819:PsiDirectoryNode" />
+              <item name="java-json.jar" type="ab9368bb:PsiFileNode" />
+            </path>
+            <path>
+              <item name="Compete" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Compete" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -124,13 +181,6 @@
               <item name="Compete" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="edu" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Compete" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Compete" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="edu" type="462c0819:PsiDirectoryNode" />
-              <item name="BFSShortestReach.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
             <path>
               <item name="Compete" type="b2602c69:ProjectViewProjectNode" />
@@ -141,6 +191,12 @@
         </subPane>
       </pane>
     </panes>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/edu" />
+      <recent name="$PROJECT_DIR$/libs" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -154,7 +210,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LuckyPurchase">
+  <component name="RunManager" selected="Application.Pdfmaker">
     <configuration name="KruskalReallySubtree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -193,14 +249,14 @@
       <module name="Compete" />
       <envs />
     </configuration>
-    <configuration name="MissingNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Pdfmaker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="edu.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="edu.MissingNumbers" />
+      <option name="MAIN_CLASS_NAME" value="edu.Pdfmaker" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -266,19 +322,19 @@
       <envs />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.MissingNumbers" />
-      <item index="1" class="java.lang.String" itemvalue="Application.KruskalReallySubtree" />
-      <item index="2" class="java.lang.String" itemvalue="Application.stackOverflow" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Planner" />
-      <item index="4" class="java.lang.String" itemvalue="Application.LuckyPurchase" />
+      <item index="0" class="java.lang.String" itemvalue="Application.KruskalReallySubtree" />
+      <item index="1" class="java.lang.String" itemvalue="Application.stackOverflow" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Planner" />
+      <item index="3" class="java.lang.String" itemvalue="Application.LuckyPurchase" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Pdfmaker" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.LuckyPurchase" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Planner" />
-        <item index="2" class="java.lang.String" itemvalue="Application.stackOverflow" />
-        <item index="3" class="java.lang.String" itemvalue="Application.KruskalReallySubtree" />
-        <item index="4" class="java.lang.String" itemvalue="Application.MissingNumbers" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Pdfmaker" />
+        <item index="1" class="java.lang.String" itemvalue="Application.LuckyPurchase" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Planner" />
+        <item index="3" class="java.lang.String" itemvalue="Application.stackOverflow" />
+        <item index="4" class="java.lang.String" itemvalue="Application.KruskalReallySubtree" />
       </list>
     </recent_temporary>
   </component>
@@ -342,7 +398,14 @@
       <option name="project" value="LOCAL" />
       <updated>1511028579490</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="#3DSurfaceArea&#10;#medium&#10;#weekofcode35">
+      <created>1511166011496</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1511166011496</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -351,13 +414,14 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977304" sideWeight="0.49444443" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977304" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3965287" sideWeight="0.48333332" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3965287" sideWeight="0.4861111" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -366,13 +430,12 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3965287" sideWeight="0.50555557" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3965287" sideWeight="0.5138889" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977304" sideWeight="0.49444443" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -388,7 +451,8 @@
     <MESSAGE value="#MissingNumbers&#10;#Searching" />
     <MESSAGE value="#KruskalGraph&#10;#ToughOne" />
     <MESSAGE value="#BFS" />
-    <option name="LAST_COMMIT_MESSAGE" value="#BFS" />
+    <MESSAGE value="#3DSurfaceArea&#10;#medium&#10;#weekofcode35" />
+    <option name="LAST_COMMIT_MESSAGE" value="#3DSurfaceArea&#10;#medium&#10;#weekofcode35" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -417,29 +481,30 @@
           <properties />
           <option name="timeStamp" value="47" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/edu/Pdfmaker.java</url>
+          <line>54</line>
+          <properties />
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/edu/Pdfmaker.java</url>
+          <line>52</line>
+          <properties />
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/edu/Pdfmaker.java</url>
+          <line>89</line>
+          <properties />
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="48" />
+      <option name="time" value="53" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/edu/LuckyPurchase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/edu/stackOverflow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/edu/stackOverflow.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -780,11 +845,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/edu/Weekofcode35SurfaceArea.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        <state relative-caret-position="609">
+          <caret line="44" column="1" lean-forward="false" selection-start-line="44" selection-start-column="1" selection-end-line="44" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/itext5-itextpdf-5.5.12-sources.jar!/com/itextpdf/text/pdf/PdfDocument.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-529">
+          <caret line="289" column="11" lean-forward="false" selection-start-line="289" selection-start-column="11" selection-end-line="289" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/Pdfmaker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3690">
+          <caret line="246" column="0" lean-forward="true" selection-start-line="246" selection-start-column="0" selection-end-line="246" selection-end-column="0" />
           <folding>
-            <element signature="e#1146#1147#0" expanded="true" />
-            <element signature="e#1206#1207#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
